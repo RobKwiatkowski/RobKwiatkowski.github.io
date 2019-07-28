@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Robert Kwiatkowski"
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : "/images/Bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Berlin, Germany"
   email            :
@@ -126,14 +126,14 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "https://github.com/RobKwiatkowski"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/RobKwiatkowski/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
-      icon: "https://www.linkedin.com/in/robertkwiatkowski01/"
-      # url: "https://instagram.com/"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.linkedin.com/in/robertkwiatkowski01/"
 
 # Site Footer
 footer:
